@@ -3,6 +3,12 @@ Ufile Download
 
 Downloading tax software should be simple and secure, especially when you need a reliable solution for filing your returns. Many users look for easy ways to download UFile and install it on their system without confusion. By following the correct steps, you can quickly access the official installer, ensure safe installation, and get started with your tax preparation smoothly.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://knowledgemask.com/ufile-ca-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started Ufile CA</a>
+   </div>
+
 How to Download UFile
 ---------------------
 
