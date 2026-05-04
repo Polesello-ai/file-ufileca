@@ -2,6 +2,12 @@ UFile Login My Account
 =====================
 Accessing your tax account online should be quick and secure. Many users search for ways to log in and manage their tax details without confusion. By following the correct steps, you can easily sign in to your UFile account, view your dashboard, and handle your tax information efficiently.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://knowledgemask.com/ufile-ca-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started Ufile CA</a>
+   </div>
+
 Steps to Login ufile Account
 -----
 
