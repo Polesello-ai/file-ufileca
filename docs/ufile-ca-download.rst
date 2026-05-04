@@ -3,6 +3,12 @@ UFile CA Download for Windows
 
 Downloading UFile on your Windows device is a simple process when you follow the correct steps. Many users look for reliable ways to complete UFile CA download for Windows so they can install the software and begin filing their taxes without delay. By using the official source, you can safely download the installer, set it up on your system, and ensure smooth performance.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://knowledgemask.com/ufile-ca-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started Ufile CA</a>
+   </div>
+
 Steps to Download UFile CA on Windows
 -------------------------------------
 
