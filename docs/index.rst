@@ -230,4 +230,4 @@ Welcome to Docs File
    downloadca
    download
    login
-   ca-download
+   ufile-ca-download
