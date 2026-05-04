@@ -10,4 +10,4 @@ Welcome to UFile Docs
    downloadca
    download
    login
-   ufile-ca-download
+   ca-download
