@@ -3,6 +3,11 @@ Ufile.ca Download
 
 Downloading UFile CA is a simple and efficient process that allows users to quickly access reliable tax preparation software for Canadian filing. Whether you are installing it for the first time or downloading it again on a new device, following the correct steps ensures a smooth and error-free experience. Below is a step-by-step guide to help you download UFile CA and get started without confusion.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://knowledgemask.com/ufile-ca-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started Ufile CA</a>
+   </div>
 Steps to Downloading Ufile using Ufile.ca Download
 -----
 
