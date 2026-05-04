@@ -1,6 +1,6 @@
 This is my First Project
 -------------------
-Welcome to UFile Docs
+Welcome to Docs File
 ====================
 
 .. toctree::
